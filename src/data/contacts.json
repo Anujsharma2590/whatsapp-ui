@@ -1,0 +1,294 @@
+[
+  {
+    "profile_image": "assets/shrawan.jpeg",
+    "name": "Shrawan",
+    "status": "Hey there! I am using WhatsApp!",
+    "last_seen": "2021-02-03 11:14:00",
+    "messages": [
+      {
+        "message": "Hello there!",
+        "timestamp": "2021-02-03 11:14:00",
+        "from": "us"
+      },
+      {
+        "message": "Hello there!",
+        "timestamp": "2021-02-03 11:15:00",
+        "from": "them"
+      },
+      {
+        "message": "How are you doing?",
+        "timestamp": "2021-02-03 11:15:20",
+        "from": "them"
+      },
+      {
+        "message": "Good and you?",
+        "timestamp": "2021-02-03 11:20:00",
+        "from": "us"
+      },
+      {
+        "message": "I am also good!",
+        "timestamp": "2021-02-03 20:20:00",
+        "from": "them"
+      }
+    ]
+  },
+  {
+    "profile_image": "https://st.adda247.com/https://img.jagranjosh.com/imported/images/E/GK/sachin-records.png",
+    "name": "Sachin",
+    "status": "Hi!",
+    "last_seen": "2021-02-02 11:14:00",
+    "messages": []
+  },
+  {
+    "profile_image": "https://static.javatpoint.com/top10-technologies/images/top-10-cricketers-in-the-world8.png",
+    "name": "Sehwag",
+    "status": "Coding!",
+    "last_seen": "2021-02-01 11:14:00",
+    "messages": []
+  },
+  {
+    "profile_image": "https://im.rediff.com/cricket/2003/sep/15yuvraj.jpg",
+    "name": "Yuvi",
+    "status": "Hello there!",
+    "last_seen": "2021-01-03 11:14:00",
+    "messages": []
+  },
+  {
+    "profile_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQppnJ6nvucHWhOy_4TvSr33y88uzE1ZaWJ7PQQYpo0IA&s",
+    "name": "Robin",
+    "status": "Just checking in!",
+    "last_seen": "2021-01-05 11:14:00",
+    "messages": []
+  },
+  {
+    "profile_image": "https://blogassets.leverageedu.com/blog/wp-content/uploads/2020/10/01190618/Virat-Kohli-Height-Weight-Age-Wife-Family-Affair.jpg",
+    "name": "Virat",
+    "status": "Hey there! I am using WhatsApp!",
+    "last_seen": "2021-02-03 11:14:00",
+    "messages": [
+      {
+        "message": "Hello there!",
+        "timestamp": "2021-02-03 11:14:00",
+        "from": "us"
+      },
+      {
+        "message": "Hello there!",
+        "timestamp": "2021-02-03 11:15:00",
+        "from": "them"
+      },
+      {
+        "message": "How are you doing?",
+        "timestamp": "2021-02-03 11:15:20",
+        "from": "them"
+      },
+      {
+        "message": "Good and you?",
+        "timestamp": "2021-02-03 11:20:00",
+        "from": "us"
+      },
+      {
+        "message": "I am also good!",
+        "timestamp": "2021-02-03 20:20:00",
+        "from": "them"
+      }
+    ]
+  },
+  {
+    "profile_image": "https://cdn.britannica.com/25/222725-050-170F622A/Indian-cricketer-Mahendra-Singh-Dhoni-2011.jpg",
+    "name": "Dhoni",
+    "status": "Hey there! I am using WhatsApp!",
+    "last_seen": "2021-02-03 11:14:00",
+    "messages": [
+      {
+        "message": "Hello there!",
+        "timestamp": "2021-02-03 11:14:00",
+        "from": "us"
+      },
+      {
+        "message": "Hello there!",
+        "timestamp": "2021-02-03 11:15:00",
+        "from": "them"
+      },
+      {
+        "message": "How are you doing?",
+        "timestamp": "2021-02-03 11:15:20",
+        "from": "them"
+      },
+      {
+        "message": "Good and you?",
+        "timestamp": "2021-02-03 11:20:00",
+        "from": "us"
+      },
+      {
+        "message": "I am also good!",
+        "timestamp": "2021-02-03 20:20:00",
+        "from": "them"
+      }
+    ]
+  },
+  {
+    "profile_image": "https://1847884116.rsc.cdn77.org/hindi/gallery/actor/arjunkapoor/poster.jpg",
+    "name": "Viru",
+    "status": "Hey there! I am using WhatsApp!",
+    "last_seen": "2021-02-03 11:14:00",
+    "messages": [
+      {
+        "message": "Hello there!",
+        "timestamp": "2021-02-03 11:14:00",
+        "from": "us"
+      },
+      {
+        "message": "Hello there!",
+        "timestamp": "2021-02-03 11:15:00",
+        "from": "them"
+      },
+      {
+        "message": "How are you doing?",
+        "timestamp": "2021-02-03 11:15:20",
+        "from": "them"
+      },
+      {
+        "message": "Good and you?",
+        "timestamp": "2021-02-03 11:20:00",
+        "from": "us"
+      },
+      {
+        "message": "I am also good!",
+        "timestamp": "2021-02-03 20:20:00",
+        "from": "them"
+      }
+    ]
+  },
+  {
+    "profile_image": "https://imgix.ranker.com/list_img_v2/16236/496236/original/the-top-south-indian-actors-of-today-u1?fit=crop&fm=pjpg&q=80&dpr=2&w=1200&h=720",
+    "name": "Allu",
+    "status": "Hey there! I am using WhatsApp!",
+    "last_seen": "2021-02-03 11:14:00",
+    "messages": [
+      {
+        "message": "Hello there!",
+        "timestamp": "2021-02-03 11:14:00",
+        "from": "us"
+      },
+      {
+        "message": "Hello there!",
+        "timestamp": "2021-02-03 11:15:00",
+        "from": "them"
+      },
+      {
+        "message": "How are you doing?",
+        "timestamp": "2021-02-03 11:15:20",
+        "from": "them"
+      },
+      {
+        "message": "Good and you?",
+        "timestamp": "2021-02-03 11:20:00",
+        "from": "us"
+      },
+      {
+        "message": "I am also good!",
+        "timestamp": "2021-02-03 20:20:00",
+        "from": "them"
+      }
+    ]
+  },
+  {
+    "profile_image": "https://static.toiimg.com/photo/100156511.cms",
+    "name": "hiritk",
+    "status": "Hey there! I am using WhatsApp!",
+    "last_seen": "2021-02-03 11:14:00",
+    "messages": [
+      {
+        "message": "Hello there!",
+        "timestamp": "2021-02-03 11:14:00",
+        "from": "us"
+      },
+      {
+        "message": "Hello there!",
+        "timestamp": "2021-02-03 11:15:00",
+        "from": "them"
+      },
+      {
+        "message": "How are you doing?",
+        "timestamp": "2021-02-03 11:15:20",
+        "from": "them"
+      },
+      {
+        "message": "Good and you?",
+        "timestamp": "2021-02-03 11:20:00",
+        "from": "us"
+      },
+      {
+        "message": "I am also good!",
+        "timestamp": "2021-02-03 20:20:00",
+        "from": "them"
+      }
+    ]
+  },
+  {
+    "profile_image": "https://img.jagrantv.com/webstories/ws5237/1692616004-south-actors-above-50.jpg",
+    "name": "Rajni",
+    "status": "Hey there! I am using WhatsApp!",
+    "last_seen": "2021-02-03 11:14:00",
+    "messages": [
+      {
+        "message": "Hello there!",
+        "timestamp": "2021-02-03 11:14:00",
+        "from": "us"
+      },
+      {
+        "message": "Hello there!",
+        "timestamp": "2021-02-03 11:15:00",
+        "from": "them"
+      },
+      {
+        "message": "How are you doing?",
+        "timestamp": "2021-02-03 11:15:20",
+        "from": "them"
+      },
+      {
+        "message": "Good and you?",
+        "timestamp": "2021-02-03 11:20:00",
+        "from": "us"
+      },
+      {
+        "message": "I am also good!",
+        "timestamp": "2021-02-03 20:20:00",
+        "from": "them"
+      }
+    ]
+  },
+  {
+    "profile_image": "https://img.jagrantv.com/webstories/ws5237/1692616004-south-actors-above-50.jpg",
+    "name": "Ashish",
+    "status": "Hey there! I am using WhatsApp!",
+    "last_seen": "2021-02-03 11:14:00",
+    "messages": [
+      {
+        "message": "Hello there!",
+        "timestamp": "2021-02-03 11:14:00",
+        "from": "us"
+      },
+      {
+        "message": "Hello there!",
+        "timestamp": "2021-02-03 11:15:00",
+        "from": "them"
+      },
+      {
+        "message": "How are you doing?",
+        "timestamp": "2021-02-03 11:15:20",
+        "from": "them"
+      },
+      {
+        "message": "Good and you?",
+        "timestamp": "2021-02-03 11:20:00",
+        "from": "us"
+      },
+      {
+        "message": "I am also good!",
+        "timestamp": "2021-02-03 20:20:00",
+        "from": "them"
+      }
+    ]
+  }
+]
